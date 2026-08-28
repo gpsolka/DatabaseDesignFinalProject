@@ -2,7 +2,9 @@
 
 
 <h2>Description</h2>
-Text...
+Revisit the classic 2XL game from the 1970s and give it a modern-day upgrade.
+
+[Link to project overview](https://docs.google.com/presentation/d/1DeiVictHDEMFL8YVQi-z1IOetu8F3Ewo2TFDaxuMEGo/edit?usp=sharing)
 <br />
 
 
@@ -14,6 +16,7 @@ Text...
 
 - <b>Windows</b>
 
-<h2>Project Overview:</h2>
+<h2>A Closer Look at the Database:</h2>
 
-Images...
+- [Link to sample tables within database](
+- [Link to SQL file](
